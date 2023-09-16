@@ -1,9 +1,8 @@
-# Learning
 <h1 align="left">Hey 👋  I am Aditya Ranjan Singh</h1>
 
 ###
 
-<p align="left">My name is Aditya Ranjan Singh and I'm a Computer Science Student, from</p>
+<p align="left">My name is Aditya Ranjan Singh and I'm a Computer Science Student, from <br>Shri Shankaracharya Technical Campus.</p>
 
 ###
 
@@ -40,12 +39,22 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="www.linkedin.com/in/aditya-ranjan-singh-396ab9230" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/invites/contact/?i=1veyjn7hrm0mx&utm_content=eyl6pfo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/St3althkill3r/St3althkill3r/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+</div>
 
 ###
