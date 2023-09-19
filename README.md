@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/St3althkill3r/St3althkill3r/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AdityaRanjanSingh23/AdityaRanjanSingh23/output/snake.svg" alt="Snake animation" />
 
 ###
 
