@@ -1,12 +1,16 @@
 <div align="center">
-  <img height="250" src="https://media.tenor.com/tuvsSJvyKSoAAAAd/minecraft-steve.gif"  />
+  <img height="350" src="https://media.tenor.com/tuvsSJvyKSoAAAAd/minecraft-steve.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="www.linkedin.com/in/aditya-ranjan-singh-396ab9230" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="aditya_190.5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -19,7 +23,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h1 align="center">I'm Aditya Ranjan Singh 😶‍🌫️</h1>
+
+###
+
+<p align="left">📚 I'm currently Studying Computer Science and Engineering from Shri Shankaracharya technical Campus ,Bhilai  <br>- ⚡ In my free time I do Calisthenics    🤸🏻‍♂️💪🏼</p>
 
 ###
 
@@ -46,7 +54,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaRanjanSingh23.AdityaRanjanSingh23&left_color=darkblue&right_color=yellowgreen"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaRanjanSingh23.AdityaRanjanSingh23&"  />
 </div>
 
 ###
@@ -56,14 +64,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaRanjanSingh23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AdityaRanjanSingh23&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AdityaRanjanSingh23/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaRanjanSingh23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AdityaRanjanSingh23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
